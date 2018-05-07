@@ -1,0 +1,15 @@
+D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\bin\Debug\BarcodeScanner.exe.config
+D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\bin\Debug\BarcodeScanner.exe
+D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\bin\Debug\BarcodeScanner.pdb
+D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\obj\Debug\BarcodeScanner.Form1.resources
+D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\obj\Debug\BarcodeScanner.Properties.Resources.resources
+D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\obj\Debug\BarcodeScanner.csproj.GenerateResource.cache
+D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\obj\Debug\BarcodeScanner.csproj.CoreCompileInputs.cache
+D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\obj\Debug\BarcodeScanner.exe
+D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\obj\Debug\BarcodeScanner.pdb
+D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\obj\Debug\BarcodeScanner.csprojResolveAssemblyReference.cache
+D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\bin\Debug\BarcodeScanner.exe.manifest
+D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\bin\Debug\BarcodeScanner.application
+D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\obj\Debug\BarcodeScanner.TrustInfo.xml
+D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\obj\Debug\BarcodeScanner.exe.manifest
+D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\obj\Debug\BarcodeScanner.application
