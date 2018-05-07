@@ -23,7 +23,7 @@ namespace BarcodeScanner
         public const int READ_BUFFER_SIZE = 32;
 
         private const string datav_login = "https://gleason.datav.bsquare.com/datav-login";
-        private const string datav_gleason_inventory_with_barcode = "https://gleason.datav.bsquare.com/datav-console/#/home?targetUri=..%252Fdatav-gleason-inventory%252F%2523%252FgleasonInventory?barcode=";
+        private const string datav_gleason_inventory_with_barcode = "https://gleason.datav.bsquare.com/datav-gleason-inventory/#/gleasonInventory?barcode=";
 
         // For local test
         //private const string datav_login = "http://10.11.0.54:8080/datav-login";   
