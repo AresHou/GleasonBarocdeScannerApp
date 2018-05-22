@@ -17,4 +17,7 @@
   <PropertyGroup>
     <EnableSecurityDebugging>false</EnableSecurityDebugging>
   </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>D:\BSQ_Projects\datav-Gleason\Doc\certification\GleasonGatway_repo\gleasongateway\GleasonGateway\Release\;D:\BSQ_Projects\datav-Gleason\Doc\certification\GleasonGatway_repo\gleasongateway\GleasonGateway\MqttLib\external\lib\engines\</ReferencePath>
+  </PropertyGroup>
 </Project>

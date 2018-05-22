@@ -3,7 +3,9 @@ D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\bin\
 D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\bin\Release\BarcodeScanner.application
 D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\bin\Release\BarcodeScanner.exe
 D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\bin\Release\BarcodeScanner.pdb
-D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\obj\Release\BarcodeScanner.csprojResolveAssemblyReference.cache
+D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\bin\Release\GleasonGateway.dll
+D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\bin\Release\Newtonsoft.Json.dll
+D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\bin\Release\M2Mqtt.Net.dll
 D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\obj\Release\BarcodeScanner.Form1.resources
 D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\obj\Release\BarcodeScanner.Properties.Resources.resources
 D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\obj\Release\BarcodeScanner.csproj.GenerateResource.cache
@@ -11,5 +13,8 @@ D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\obj\
 D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\obj\Release\BarcodeScanner.TrustInfo.xml
 D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\obj\Release\BarcodeScanner.exe.manifest
 D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\obj\Release\BarcodeScanner.application
+D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\obj\Release\BarcodeScanner.csproj.CopyComplete
 D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\obj\Release\BarcodeScanner.exe
 D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\obj\Release\BarcodeScanner.pdb
+D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\bin\Release\GleasonGateway.pdb
+D:\BSQ_Projects\datav-Gleason\barcode_scanner\BarcodeScanner\BarcodeScanner\bin\Release\M2Mqtt.Net.pdb
